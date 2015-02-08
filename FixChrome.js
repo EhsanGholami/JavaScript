@@ -1,3 +1,10 @@
+ /*
+ * fix chrome showModalDialog 
+ * just copy and past this code
+ * source : stackoverflow.com
+ */
+ 
+ 
  if (!window.showModalDialog) {
      window.showModalDialog = function (arg1, arg2, arg3) {
 
