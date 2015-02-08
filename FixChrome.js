@@ -1,6 +1,6 @@
  /*
  * fix chrome showModalDialog 
- * just copy and past this code
+ * just copy and past this code or add this js to your site
  * source : stackoverflow.com
  */
  
